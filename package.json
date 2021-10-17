@@ -1,0 +1,17 @@
+{
+  "name": "260621-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node  ",
+    "watch": "nodemon main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.13"
+  }
+}
